@@ -5,7 +5,7 @@ Welcome to the **Kebun Ibu (kebu)** repository. This repository collects resourc
 Kebun Ibu focuses on transforming agriculture through the use of Internet of Things (IoT) devices, data analytics, and automated systems. Our goal is to optimize resource usage, enhance crop yields, and promote environmentally friendly farming methods. By leveraging cutting-edge technology, we aim to empower farmers with tools and insights that can lead to better decision-making and improved farm management.
 
 ## Repository Structure
-
+<!-- TREEVIEW START -->
 kebu/
 ├── software/
 │   ├── app/
@@ -21,18 +21,8 @@ kebu/
 │   ├── enclosures/
 │   └── components/
 └── README.md
+<!-- TREEVIEW END -->
 
-├───Kebun_Ibu
-│   ├───Doc
-│   ├───Electrical
-│   │   └───cpu_ac_rl1_carrier
-│   │       └───cpu_ac_rl1_carrier-backups
-│   ├───Firmware
-│   └───Mechanical
-│       └───ESP12F_Relay_X4 4-Channel Relay Case ESP8266 87x93 - 6032197
-│           ├───files
-│           └───images
-└── README.md
 ## Software
 app/: Contains the mobile application codebase.
 
