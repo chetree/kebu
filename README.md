@@ -22,6 +22,17 @@ kebu/
 │   └── components/
 └── README.md
 
+├───Kebun_Ibu
+│   ├───Doc
+│   ├───Electrical
+│   │   └───cpu_ac_rl1_carrier
+│   │       └───cpu_ac_rl1_carrier-backups
+│   ├───Firmware
+│   └───Mechanical
+│       └───ESP12F_Relay_X4 4-Channel Relay Case ESP8266 87x93 - 6032197
+│           ├───files
+│           └───images
+└── README.md
 ## Software
 app/: Contains the mobile application codebase.
 
