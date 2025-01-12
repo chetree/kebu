@@ -6,6 +6,7 @@ Kebun Ibu focuses on transforming agriculture through the use of Internet of Thi
 
 ## Repository Structure
 <!-- TREEVIEW START -->
+```bash
 kebu/
 ├── software/
 │   ├── app/
@@ -21,6 +22,7 @@ kebu/
 │   ├── enclosures/
 │   └── components/
 └── README.md
+```
 <!-- TREEVIEW END -->
 
 ## Software
