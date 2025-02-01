@@ -6,6 +6,8 @@ Kebun Ibu focuses on transforming agriculture through the use of **Internet of T
 
 For detailed documentation, setup guides, and tutorials, please refer to the **[Kebu GitHub Wiki](https://github.com/chetree/kebu/wiki)**.
 
+[Baca dalam Bahasa Indonesia](README_ID.md)
+
 ---
 
 ## Repository Structure
