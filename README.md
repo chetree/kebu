@@ -1,6 +1,6 @@
-# Kebun Ibu (kebu)
+# kebu (Kebun Ibu)
 
-Welcome to the **Kebun Ibu (kebu)** repository. This repository collects resources for developing smart farming solutions in Kebun Ibu, an innovative initiative aimed at integrating advanced technology with traditional farming practices. Here, you'll find a collection of software, firmware, documents, and 3D designs that our team uses to create sustainable, efficient, and productive farming systems.
+Welcome to the ** kebu (Kebun Ibu)** repository. This repository collects resources for developing smart farming solutions in Kebun Ibu, an innovative initiative aimed at integrating advanced technology with traditional farming practices. Here, you'll find a collection of software, firmware, documents, and 3D designs that our team uses to create sustainable, efficient, and productive farming systems.
 
 Kebun Ibu focuses on transforming agriculture through the use of Internet of Things (IoT) devices, data analytics, and automated systems. Our goal is to optimize resource usage, enhance crop yields, and promote environmentally friendly farming methods. By leveraging cutting-edge technology, we aim to empower farmers with tools and insights that can lead to better decision-making and improved farm management.
 
