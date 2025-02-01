@@ -4,7 +4,7 @@ Welcome to the **Kebu (Kebun Ibu)** repository! This repository collects resourc
 
 Kebun Ibu focuses on transforming agriculture through the use of **Internet of Things (IoT) devices**, **data analytics**, and **automated systems**. Our goal is to optimize resource usage, enhance crop yields, and promote environmentally friendly farming methods. By leveraging cutting-edge technology, we aim to empower farmers with tools and insights that lead to better decision-making and improved farm management.
 
-For detailed documentation, setup guides, and tutorials, please refer to the **[Kebu GitHub Wiki](https://github.com/your-username/kebu/wiki)**.
+For detailed documentation, setup guides, and tutorials, please refer to the **[Kebu GitHub Wiki](https://github.com/chetree/kebu/wiki)**.
 
 ---
 
@@ -90,12 +90,12 @@ For more information on these use cases, visit the **[Kebu GitHub Wiki](https://
 ---
 
 ## Getting Started
-To get started with the resources in this repository, follow the guides in the **docs/** directory or visit the **[Kebu GitHub Wiki](https://github.com/your-username/kebu/wiki)** for detailed instructions. For any issues or questions, feel free to open an issue or contact us directly.
+To get started with the resources in this repository, visit the **[Kebu GitHub Wiki](https://github.com/chetree/kebu/wiki)** for detailed instructions. For any issues or questions, feel free to open an issue or contact us directly.
 
 ---
 
 ## Contributing
-We welcome contributions! Please read our [contribution guidelines](CONTRIBUTING.md) to get started. For more details, visit the **[Kebu GitHub Wiki](https://github.com/your-username/kebu/wiki)**.
+We welcome contributions! Please read our [contribution guidelines](CONTRIBUTING.md) to get started. For more details, visit the **[Kebu GitHub Wiki](https://github.com/chetree/kebu/wiki)**
 
 ---
 
