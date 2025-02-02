@@ -8,6 +8,19 @@ For detailed documentation, setup guides, and tutorials, please refer to the **[
 
 [Baca dalam Bahasa Indonesia](README_ID.md)
 
+### Live Demo: 
+Click this Link: **[Main Dasboard](https://tinyurl.com/kebunibu)**
+```
+Username: demo@kebunibu.com
+Password: demo@kebunibu.com
+```
+
+### Sample Implementation
+![Main Dasboard](docs/Asset/main%20dashboard.png)
+
+#### Sensor Node details
+![Node Sensor](docs/Asset/node1_sensor.png)
+
 ---
 
 ## Repository Structure
